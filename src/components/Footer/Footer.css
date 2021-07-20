@@ -1,0 +1,18 @@
+.footer-wrapper {
+    align-items: center;
+    border: 1px #000 solid;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 100%;
+}
+
+.footer-wrapper ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-wrapper li {
+    margin: 0 20px;
+}
