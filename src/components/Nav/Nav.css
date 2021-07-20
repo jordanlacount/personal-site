@@ -1,0 +1,21 @@
+.nav-wrapper {
+    align-items: center;
+    border: 1px #000 solid;
+    display: flex;
+    font-family:'Courier New', Courier, monospace;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nav-wrapper h1 {
+    margin: 0 20px;
+}
+
+.nav-wrapper ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-wrapper li {
+    padding: 0 20px;
+}
